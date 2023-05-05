@@ -1,0 +1,7 @@
+{
+    "host": "mydemo-public-rds.cfyayvmnhx6t.us-east-1.rds.amazonaws.com",
+    "user": "admin",
+    "password": "Zkzkdhqmdldprtm1!",
+    "port": "3306",
+    "database": "management"
+}
